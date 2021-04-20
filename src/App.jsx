@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useFLIP } from "./FLIP-helper";
 
 // Gambar profil / avatar
-import avatarSrc from "./avatar.jpg";
+import avatarSrc from "./me 2.jpg";
 
 // Screens
 import Links from "./screens/Links";
